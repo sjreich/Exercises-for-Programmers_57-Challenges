@@ -1,0 +1,23 @@
+SET 1:first_name John
+SET 1:last_name Johnson
+SET 1:position Manager
+SET 1:separation_date 2016-12-31
+SET 2:first_name Tou
+SET 2:last_name Xiong
+SET 2:position Software_Engineer
+SET 2:separation_date 2016-10-05
+SET 3:first_name Michaela
+SET 3:last_name Michaelson
+SET 3:position District_Manager
+SET 3:separation_date 2015-12-19
+SET 4:first_name Jake
+SET 4:last_name Jacobson
+SET 4:position Programmer
+SET 5:first_name Jacquelyn
+SET 5:last_name Jackson
+SET 5:position DBA
+SET 6:first_name Sally
+SET 6:last_name Weber
+SET 6:position Web_Developer
+SET 6:separation_date 2015-12-18
+

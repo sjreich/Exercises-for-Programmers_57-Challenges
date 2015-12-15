@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Karvonen Heart Rate Suggester</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $("button").click(function(){
+        $("#div1").load(externalHTML.txt);
+      });
+    });
+  </script>
+</head>
+<body>
+  <form>
+    <label for="intensity">Intensity</label>
+    <input type="range" name="intensity" min="55" max="95">
+  </form>
+  <button>Get External Content</button>
+  <div id="div1">
+    <h2>This is the initial text.</h2>
+  </div>
+</body>
+</html>
