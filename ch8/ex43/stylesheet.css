@@ -1,0 +1,11 @@
+#title-block {
+  width: 400px;
+  height: 100px;
+  border: 1px solid black;
+  margin: auto;
+}
+
+#title {
+  color: blue;
+  text-align: center;
+}
